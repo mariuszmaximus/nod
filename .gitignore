@@ -44,3 +44,8 @@
 *.unsuccessfulbuild
 *.sublime-project
 *.sublime-workspace
+
+# vscode default folders
+.vscode
+/build
+/.cache
